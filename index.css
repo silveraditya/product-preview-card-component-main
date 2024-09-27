@@ -177,5 +177,11 @@ button img {
         width: 236px;
         height: 48px;
     }
+
+    button:hover {
+        background-color: var(--DarkBlue);
+        cursor: pointer;
+    }
+
   
 }
